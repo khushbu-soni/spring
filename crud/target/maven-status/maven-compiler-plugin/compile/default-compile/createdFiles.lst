@@ -1,0 +1,6 @@
+com\crud\controller\UserController.class
+com\crud\jpa\repository\UserRepository.class
+com\crud\CrudApplication.class
+com\crud\ServletInitializer.class
+com\crud\model\User.class
+com\crud\service\UserService.class
